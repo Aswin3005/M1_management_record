@@ -14,18 +14,19 @@ This mini project in C Phonebook allows you to perform simple Phonebook operatio
 
 # 5W'S & 1H
 
-
-
-
-
-
-         
->**Requirements**
-
-    #High level requirements
-    
-         * It allows you to add, modify, delete, list the records.
-         * Do the functions tha has been asked.
-         
-    #Low level requiremets
-         * persons details that has to be stored
+![5W1H Method](https://user-images.githubusercontent.com/98950106/153652120-ee15ca95-3a96-472a-891f-8a354d04dad0.png)
+        
+# Requirements
+## High level requirements    
+- Adding new records   
+- List the records stored
+- To modify the record stored
+- Search for the record stored
+- Delete the record stored
+- Exit     
+# Low level requiremets
+- Add new record by name, father name, mother name, email address, address, pin code, gender
+- list the record by name
+- modify record by name
+- search record by name
+- delete record by name
