@@ -1,9 +1,19 @@
-###Description###
+# Description
+This mini project in C Phonebook allows you to perform simple Phonebook operations like in your mobile.You can add, list, modify, search and delete Phonebook-related records.Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this project.
 
-         This mini project in C Phonebook allows you to perform simple Phonebook operations like in your mobile.
-         You can add, list, modify, search and delete Phonebook-related records.
+# Features
+
+- Architecture of this project is very simple and easy to understand the code.
+- Add new : add new data into file.
+- List : lists the records stored.
+- Modify : modify the records stored already.
+- Serach : To search the records stored by the name.
+- Delete : Deletes the record stored by the name.
+
+
+
          
-##Requirements##
+>**Requirements**
 
     #High level requirements
     
