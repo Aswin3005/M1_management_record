@@ -10,6 +10,13 @@ This mini project in C Phonebook allows you to perform simple Phonebook operatio
 - Serach : To search the records stored by the name.
 - Delete : Deletes the record stored by the name.
 
+![swot](https://user-images.githubusercontent.com/98950106/153649677-6b7d773e-c608-4d94-beda-06fa00cda7c0.png)
+
+# 5W'S & 1H
+
+
+
+
 
 
          
