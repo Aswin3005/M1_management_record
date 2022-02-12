@@ -36,6 +36,12 @@ This mini project in C Phonebook allows you to perform simple Phonebook operatio
 
 ## Low level behaviroual design
 ![bd2](https://user-images.githubusercontent.com/98950106/153657660-ac720128-943b-463e-ab85-d628eb990892.png)
+# Structural design
+## High level structural design
+![sd1](https://user-images.githubusercontent.com/98950106/153663533-e5e17b11-7e23-43e1-9e32-e7730b330831.png)
+
+## Low level structural design
+![sd2](https://user-images.githubusercontent.com/98950106/153663670-3f630cb4-e89c-4422-b7f7-79e58b090dd1.png)
 
 # Test plan
 - To add data for new records
