@@ -1,3 +1,10 @@
+# Test plan
+- To add data for new records
+- To list and view the stored records
+- To modify the record by searchig the name
+- To search the record by the name
+- To delete the record by entering the name
+- Entering input for exit the program
 # Output
 
 ![o1](https://user-images.githubusercontent.com/98950106/153708037-164423e4-e309-4542-8229-ac8117fc45e0.png)
